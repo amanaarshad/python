@@ -1,0 +1,126 @@
+Python 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+tup1= ['Roberft, Çarlos','1965','Actor', 'Florida);
+
+
+tup2 =(1,2,3,4,5,6,7);
+
+
+print(tup1[0])
+
+
+print(tup2[1:4])
+
+
+
+print(tup1[0])
+
+
+
+print((tup2[1:4])
+
+
+
+x=("Guru1999", 20, education)
+
+(company,emp,profile)=x
+
+print(company)
+
+print(profile)
+
+a=(5,6)
+b=(1,4)
+if(a,b):print(ä is bigger")
+else:print("b is bigger)
+
+
+
+
+a=(5,6)
+b=(5,4)
+if(a>b):print(a is bigger")
+else:print("b is bigger")
+
+
+
+a={'x',100,'ý':200}
+b=list(a.items())
+print(b)
+
+x=("a","b","c","d","e","f")
+print(x[2:4])
+
+
+
+alist= {'x':200,  'y'=100}
+b=list(alist.items())
+print(b)
+
+
+
+x=(ä","b","c","d"",ë","f")
+print x[2:4]
+
+
+
+Dictionary = {'Tim'= 18, 'Tum'='19}
+
+Dictionary= {'Tim':18, 'çharlie':12, 'Jiffany':22}
+
+Dicttionary= {'x',ý',z'}
+
+Boys = {'Tim':18,'çharlie'}
+
+
+Girls= {'Tiffany':22}
+
+
+studentsy = Boys.copy()
+
+studentsx= Girls.copy()
+print(studentx)
+print(studenty)
+
+
+
+Dictionary = {'Tim':18, çharlie':12}
+Dictionary.update({Á', 9}
+print(dictioonary)
+
+
+
+
+Dictionary = {'Tim':18,'charlie':1}
+print "studentName: %s"    Dictionary.items()
+
+
+
+Dicrtionary={''Tim'=18. 'charlie':3}
+print{stdentNames: %s"  list(Dictionary.items())
+
+
+
+Dictionary= {'Tom':18, çharlie':12}
+Boys = {'Tifan':12}
+ Girls = {'Tiffany':12}
+for key in keys:
+             if key in Dictionary.keys()
+              print(true)
+             else
+             print(false)
+
+
+
+Dictionary =
+{'Tim':18,charlir':12}
+ Students = Dictionary.keys()
+ Students.sort()
+
+
+
+ for S in Students:
+     print":" .  join((S, str[Dictionary[S, str[Dictionary[S])
+
+      
+KeyboardInterrupt
